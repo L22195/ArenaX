@@ -63,8 +63,6 @@ $ python app.py
 - Admin dashboard
 - Multilingual support
 
-## License
-This project is licensed under the MIT License.
 
 ---
 Made with ❤️ by ArenaX Team
